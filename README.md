@@ -1,4 +1,10 @@
-Peter Binkley's sashiko experience.
+[Peter Binkley](https://guides.library.ualberta.ca/az/library-staff-directory/binkley-peter)'s sashiko experience.
+
+Prepared for 
+[Mend-Along! Sashiko & similar methods](https://amandavisconti.github.io/DHMakesMethodz/2024/09/09/sashikomending-dhmakesmethodz.html)
+in
+[#DHmakes Methodz Talks](https://amandavisconti.github.io/DHMakesMethodz/),
+1 May 2025
 
 <h2>The Data</h2>
 
