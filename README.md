@@ -6,7 +6,7 @@ in
 [#DHmakes Methodz Talks](https://amandavisconti.github.io/DHMakesMethodz/),
 1 May 2025
 
-<h2>The Data</h2>
+<h2 id="data">The Data</h2>
 
 <style>
     table td, table th {
@@ -37,20 +37,29 @@ in
 <tr class="odd"><td class="5">5</td><td class="left">left</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
 </tbody></table>
 
-<h2>The Evidence</h2>
+<h2 id="evidence">The Evidence</h2>
 
+<h3 id="one">One</h3>
 <a href="images/sashiko-knees-1.png">
  <img src="images/sashiko-knees-1-thumb.jpg" alt="Blue jean knees repaired with sashiko" width="600">
 </a>
+
+<h3 id="two">Two</h3>
 <a href="images/sashiko-knees-2.png">
  <img src="images/sashiko-knees-2-thumb.jpg" alt="Blue jean knees repaired with sashiko" width="600">
 </a>
+
+<h3 id="three">Three</h3>
 <a href="images/sashiko-knees-3.png">
  <img src="images/sashiko-knees-3-thumb.jpg" alt="Blue jean knees repaired with sashiko" width="600">
 </a>
+
+<h3 id="four">Four</h3>
 <a href="images/sashiko-knees-4.png">
  <img src="images/sashiko-knees-4-thumb.jpg" alt="Blue jean knees repaired with sashiko" width="600">
 </a>
+
+<h3 id="five">Five</h3>
 <a href="images/sashiko-knees-5.png">
  <img src="images/sashiko-knees-5-thumb.jpg" alt="Blue jean knees repaired with sashiko" width="600">
 </a>
