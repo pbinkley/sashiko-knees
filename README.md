@@ -1,3 +1,5 @@
-# Sashiko Knees
+Peter Binkley's sashiko experience.
 
-This is the site
+ <img src="images/sashiko-knees-1-thumb.jpg" alt="Blue jean knees repaired with sashiko" width="400" height="">
+
+  
