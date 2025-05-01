@@ -14,14 +14,14 @@ Peter Binkley's sashiko experience.
     .Held {background-color: aquamarine;}
     .Failed { background-color: lightpink }
     .Not_repaired {background-color: lightpink;}
-    .No_damage {background-color: aliceblue;}
+    .No_damage {background-color: aquamarine;}
 </style><table><tbody>
 <tr><th>Jeans</th><th>Knee</th><th>Damaged</th><th>Repaired</th><th>Redamaged</th></tr>
 <tr><td class="1">1</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
 <tr><td class="1">1</td><td class="1eft">1eft</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
 <tr><td class="2">2</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Held">Held</td></tr>
-<tr><td class="2">2</td><td class="1eft">1eft</td><td class="Damaged">Damaged</td><td class="Not_repaired">Not repaired</td><td class="Not repaired">Not repaired</td></tr>
-<tr><td class="3">3</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Not_repaired">Not repaired</td><td class="Not repaired">Not repaired</td></tr>
+<tr><td class="2">2</td><td class="1eft">1eft</td><td class="Damaged">Damaged</td><td class="Not_repaired">Not repaired</td><td class="Not_repaired">Not repaired</td></tr>
+<tr><td class="3">3</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Not_repaired">Not repaired</td><td class="Not_repaired">Not repaired</td></tr>
 <tr><td class="3">3</td><td class="1eft">1eft</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Held">Held</td></tr>
 <tr><td class="4">4</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
 <tr><td class="4">4</td><td class="1eft">1eft</td><td class="No_damage">No damage</td><td class="No_damage">No damage</td><td class="No_damage">No damage</td></tr>
