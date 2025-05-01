@@ -20,15 +20,15 @@ Peter Binkley's sashiko experience.
 </style><table><tbody>
 <tr class="head"><th>Jeans</th><th>Knee</th><th>Damaged</th><th>Repaired</th><th>Redamaged</th></tr>
 <tr class="odd"><td class="1">1</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
-<tr class="odd"><td class="1">1</td><td class="left">left"</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
+<tr class="odd"><td class="1">1</td><td class="left">left</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
 <tr class="even"><td class="2">2</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Held">Held</td></tr>
-<tr class="even"><td class="2">2</td><td class="left">left"</td><td class="Damaged">Damaged</td><td class="Not_repaired">Not repaired</td><td class="Not_repaired">Not repaired</td></tr>
+<tr class="even"><td class="2">2</td><td class="left">left</td><td class="Damaged">Damaged</td><td class="Not_repaired">Not repaired</td><td class="Not_repaired">Not repaired</td></tr>
 <tr class="odd"><td class="3">3</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Not_repaired">Not repaired</td><td class="Not_repaired">Not repaired</td></tr>
-<tr class="odd"><td class="3">3</td><td class="left">left"</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Held">Held</td></tr>
+<tr class="odd"><td class="3">3</td><td class="left">left</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Held">Held</td></tr>
 <tr class="even"><td class="4">4</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
-<tr class="even"><td class="4">4</td><td class="left">left"</td><td class="No_damage">No damage</td><td class="No_damage">No damage</td><td class="No_damage">No damage</td></tr>
+<tr class="even"><td class="4">4</td><td class="left">left</td><td class="No_damage">No damage</td><td class="No_damage">No damage</td><td class="No_damage">No damage</td></tr>
 <tr class="odd"><td class="5">5</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
-<tr class="odd"><td class="5">5</td><td class="left">left"</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
+<tr class="odd"><td class="5">5</td><td class="left">left</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
 </tbody></table>
 
 <h2>The Evidence</h2>
