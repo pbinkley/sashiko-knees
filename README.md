@@ -9,7 +9,25 @@ Peter Binkley's sashiko experience.
         line-height: 1.4;
         padding: 10px 10px;
     }
-</style><table><tbody><tr><th>Jeans</th><th>Knee</th><th>Damaged</th><th>Repaired</th><th>Redamaged</th></tr><tr><td>1</td><td>r</td><td>Damaged</td><td>Repaired</td><td>Failed</td></tr><tr><td>1</td><td>l</td><td>Damaged</td><td>Repaired</td><td>Failed</td></tr><tr><td>2</td><td>r</td><td>Damaged</td><td>Repaired</td><td>Held</td></tr><tr><td>2</td><td>l</td><td>Damaged</td><td>Not repaired</td><td>Held</td></tr><tr><td>3</td><td>r</td><td>Damaged</td><td>Not repaired</td><td>Held</td></tr><tr><td>3</td><td>l</td><td>Damaged</td><td>Repaired</td><td>Held</td></tr><tr><td>4</td><td>r</td><td>Damaged</td><td>Repaired</td><td>Failed</td></tr><tr><td>4</td><td>l</td><td>No damage</td><td>No damage</td><td>No damage</td></tr><tr><td>5</td><td>r</td><td>Damaged</td><td>Repaired</td><td>Failed</td></tr><tr><td>5</td><td>l</td><td>Damaged</td><td>Repaired</td><td>Failed</td></tr></tbody></table>
+    .Damaged {background-color: lightpink;}
+    .Repaired {background-color: aquamarine;}
+    .Held {background-color: aquamarine;}
+    .Failed { background-color: lightpink }
+    .Not_repaired {background-color: aliceblue;}
+    .No_damage {background-color: aliceblue;}
+</style><table><tbody>
+<tr><th>Jeans</th><th>Knee</th><th>Damaged</th><th>Repaired</th><th>Redamaged</th></tr>
+<tr><td class="1">1</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
+<tr><td class="1">1</td><td class="1eft">1eft</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
+<tr><td class="2">2</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Held">Held</td></tr>
+<tr><td class="2">2</td><td class="1eft">1eft</td><td class="Damaged">Damaged</td><td class="Not_repaired">Not repaired</td><td class="Held">Held</td></tr>
+<tr><td class="3">3</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Not_repaired">Not repaired</td><td class="Held">Held</td></tr>
+<tr><td class="3">3</td><td class="1eft">1eft</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Held">Held</td></tr>
+<tr><td class="4">4</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
+<tr><td class="4">4</td><td class="1eft">1eft</td><td class="No_damage">No damage</td><td class="No_damage">No damage</td><td class="No_damage">No damage</td></tr>
+<tr><td class="5">5</td><td class="right">right</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
+<tr><td class="5">5</td><td class="1eft">1eft</td><td class="Damaged">Damaged</td><td class="Repaired">Repaired</td><td class="Failed">Failed</td></tr>
+</tbody></table>
 
 <h2>The Evidence</h2>
 
